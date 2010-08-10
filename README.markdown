@@ -29,7 +29,7 @@ This is a set of files that a front-end developer can use to get started on a we
     13. An optimal print stylesheet, performance optimized
     14. iOS, Android, Opera Mobile-adaptable markup and CSS skeleton.
     15. IE6 pngfix baked in.
-    16. jQuery, waiting for you
+    16. MooTools, waiting for you
     
 
 There will be two releases: a documented release, which is exactly what you see here, and a production release, with most of the descriptive comments stripped out.
